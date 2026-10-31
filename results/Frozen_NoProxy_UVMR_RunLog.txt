@@ -1,0 +1,112 @@
+Frozen no-proxy univariable MR rerun
+====================================
+Script: scripts/23_rerun_frozen_no_proxy_uvmr.R
+Execution time: 2026-10-31 15:35:10 CST
+Offline source directory: inputs
+Network/API extraction: NONE
+Primary rule: exclude outcome proxies from frozen harmonised data
+Outcome scales: ukb-d-COPD_EXCL=linear probability; FinnGen=log odds; lung function=continuous
+UKB Steiger handling: r.outcome recomputed with get_r_from_bsen; frozen log-OR conversion ignored
+Base random seed: 20260808
+MR-PRESSO NbDistribution: 1000
+R version: R version 4.5.2 (2025-10-31)
+TwoSampleMR version: 0.6.22
+MRPRESSO version: 1.0
+digest version: 0.6.37
+
+Primary IVW summary:
+        Outcome_Key                        Outcome                Outcome_ID
+          COPD_main    COPD differential diagnosis           ukb-d-COPD_EXCL
+      COPD_hospital           COPD hospitalization      finn-b-COPD_HOSPITAL
+         COPD_early               Early-onset COPD         finn-b-COPD_EARLY
+         COPD_later                Late-onset COPD         finn-b-COPD_LATER
+       COPD_general                   General COPD           finn-b-J10_COPD
+     COPD_emphysema                      Emphysema      finn-b-J10_EMPHYSEMA
+ COPD_insufficiency COPD respiratory insufficiency finn-b-COPD_INSUFFICIENCY
+               FEV1                           FEV1          ebi-a-GCST007432
+                FVC                            FVC          ebi-a-GCST007429
+                PEF                            PEF          ebi-a-GCST007430
+ Outcome_Type Outcome_Beta_Scale Proxies_Removed Primary_N_SNPs            b
+       Binary linear_probability               0             16 -0.026490839
+       Binary           log_odds               1             15 -1.014274591
+       Binary           log_odds               1             15 -1.162074441
+       Binary           log_odds               1             15 -0.785406807
+       Binary           log_odds               1             15 -0.990544581
+       Binary           log_odds               1             15  0.454164328
+       Binary           log_odds               1             15  0.063405456
+   Continuous         continuous               0             16  0.123213406
+   Continuous         continuous               0             16  0.121330746
+   Continuous         continuous               0             16 -0.009491658
+         se        pval  Effect_Measure Effect_Estimate Effect_CI_Lower
+ 0.01349412 0.049629931 Risk difference    -0.026490839     -0.05293882
+ 0.32698430 0.001922789              OR     0.362665415      0.19106300
+ 0.43950065 0.008191353              OR     0.312836546      0.13219464
+ 0.45265830 0.082723336              OR     0.455934187      0.18775811
+ 0.31126829 0.001461177              OR     0.371374393      0.20177154
+ 1.00974414 0.652867931              OR     1.574856770      0.21764330
+ 0.94216322 0.946344675              OR     1.065458749      0.16809928
+ 0.07833537 0.115742864            Beta     0.123213406     -0.03032110
+ 0.07874603 0.123368964            Beta     0.121330746     -0.03300863
+ 0.08387779 0.909903260            Beta    -0.009491658     -0.17388911
+ Effect_CI_Upper
+    -0.000042855
+     0.688391790
+     0.740322779
+     1.107147809
+     0.683540115
+    11.395590402
+     6.753165979
+     0.276747914
+     0.275670121
+     0.154905792
+
+Manual IVW validation:
+        Outcome_Key Primary_N_SNPs Beta_Absolute_Difference
+          COPD_main             16             1.734723e-17
+      COPD_hospital             15             0.000000e+00
+         COPD_early             15             2.220446e-16
+         COPD_later             15             2.220446e-16
+       COPD_general             15             1.110223e-16
+     COPD_emphysema             15             1.110223e-16
+ COPD_insufficiency             15             6.383782e-16
+               FEV1             16             9.714451e-17
+                FVC             16             2.775558e-17
+                PEF             16             1.040834e-17
+ SE_Absolute_Difference Pass_1e_10
+           1.734723e-18       TRUE
+           5.551115e-17       TRUE
+           0.000000e+00       TRUE
+           5.551115e-17       TRUE
+           0.000000e+00       TRUE
+           0.000000e+00       TRUE
+           1.110223e-16       TRUE
+           1.387779e-17       TRUE
+           1.387779e-17       TRUE
+           1.387779e-17       TRUE
+
+Session information:
+R version 4.5.2 (2025-10-31)
+Platform: aarch64-apple-darwin20
+Running under: macOS 27.2
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.5-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] zh_CN/zh_CN/zh_CN/C/zh_CN/zh_CN
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] digest_0.6.37      MRPRESSO_1.0       TwoSampleMR_0.6.22
+
+loaded via a namespace (and not attached):
+ [1] compiler_4.5.2    plyr_1.8.9        magrittr_2.0.4    parallel_4.5.2   
+ [5] tools_4.5.2       Rcpp_1.1.0        nlme_3.1-168      mnormt_2.1.1     
+ [9] grid_4.5.2        data.table_1.17.8 psych_2.5.6       jsonlite_2.0.0   
+[13] lattice_0.22-7   

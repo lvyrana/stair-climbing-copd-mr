@@ -1,0 +1,42 @@
+Post hoc negative-control influence diagnostics
+Run time UTC: 2026-10-31 07:35:15 UTC
+R version: R version 4.5.2 (2025-10-31)
+digest version: 0.6.37
+Network/API calls: none
+Input: validated full-direct harmonised output from script 24
+Variants per outcome: 16 direct SNPs
+Trigger: significant full-direct IVW Cochran Q heterogeneity
+Primary alpha retained for descriptive threshold crossing check: 0.025
+Influence screening: leverage > 2/n; Cook distance > 4/n; |standardised residual| > 2
+Interpretation boundary: post hoc diagnostic only; no SNP is automatically excluded and no new primary hypothesis is created
+
+ Outcome_Key   Outcome_ID               Outcome_Label  Effect_Measure N_SNP
+     tanning    ukb-b-533        Ease of skin tanning            Beta    16
+ blonde_hair ukb-d-1747_1 Natural hair colour: blonde Risk difference    16
+    Full_Beta    Full_SE     Full_P Full_CI_Lower Full_CI_Upper   Full_Q
+  0.003203581 0.05233719 0.95119164   -0.09937731   0.105784469 40.35176
+ -0.036320149 0.01783029 0.04165089   -0.07126752  -0.001372781 33.74263
+ Full_Q_df     Full_Q_P LOO_Beta_Min LOO_Beta_Max  LOO_P_Min LOO_P_Max
+        15 0.0004012185  -0.02503323   0.03525456 0.46529297 0.9939448
+        15 0.0037002493  -0.04222054  -0.02175963 0.01869875 0.1161035
+ N_LOO_Passes_Alpha_0_025 Any_LOO_Passes_Alpha_0_025
+                        0                      FALSE
+                        1                       TRUE
+ Largest_Absolute_Beta_Change_SNP Largest_Absolute_Beta_Change
+                       rs58133129                   0.03205098
+                       rs58133129                   0.01456052
+ Largest_Standardised_Beta_Change       Top_3_Q_Contribution_SNPs
+                        0.6123939  rs4855841;rs58133129;rs1829967
+                        0.8166170 rs58133129;rs11689201;rs7851239
+             Top_3_Q_Shares                 Top_3_Cook_SNPs
+ 0.259096;0.249524;0.129468  rs58133129;rs4855841;rs1829967
+ 0.443642;0.200333;0.104808 rs58133129;rs11689201;rs7851239
+       Top_3_Cook_Distances N_High_Leverage N_High_Cook N_Large_Residual
+ 0.375026;0.291079;0.160225               0           2                2
+ 0.666863;0.187127;0.109508               0           1                1
+ N_Any_Influence_Flag                                    Post_Hoc_Trigger
+                    2 Significant full-direct IVW Cochran Q heterogeneity
+                    1 Significant full-direct IVW Cochran Q heterogeneity
+                                                                                                    Interpretation_Boundary
+ Descriptive influence diagnostic only; flags do not justify automatic SNP exclusion and do not create a new primary result
+ Descriptive influence diagnostic only; flags do not justify automatic SNP exclusion and do not create a new primary result

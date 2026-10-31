@@ -1,0 +1,22 @@
+Negative-control outcome analysis
+Run time UTC: 2026-10-31 07:35:14 UTC
+R version: R version 4.5.2 (2025-10-31)
+TwoSampleMR version: 0.6.22
+ieugwasr version: 1.1.0
+Outcome cache mode: reused_frozen_cache
+Outcome proxies: disabled
+Primary outcomes: ukb-b-533; ukb-d-1747_1
+Primary threshold: 0.025
+Requested exposure SNPs: 16
+Blonde-hair effect scale: linear probability (Neale Lab linear regression), not odds ratio
+Interpretation boundary: ordinary IVW is diagnostic only because all GWAS are UK Biobank-derived and individual-level overlap/error covariance are unknown
+
+ Outcome_Key   Outcome_ID N_Direct_Retrieved N_Harmonised_Keep     IVW_Beta
+     tanning    ukb-b-533                 16                16  0.003203581
+ blonde_hair ukb-d-1747_1                 16                16 -0.036320149
+     IVW_SE      IVW_P Primary_Alpha Negative_Control_Alert Diagnostic_Only
+ 0.05233719 0.95119164         0.025                  FALSE            TRUE
+ 0.01783029 0.04165089         0.025                  FALSE            TRUE
+                                                                                                        Overlap_Boundary
+ Exposure and outcome are UK Biobank-derived; individual-level overlap and exposure-outcome error covariance are unknown
+ Exposure and outcome are UK Biobank-derived; individual-level overlap and exposure-outcome error covariance are unknown

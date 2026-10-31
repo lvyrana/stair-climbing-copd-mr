@@ -1,0 +1,155 @@
+"Outcome_Key","Outcome","SNP","Frozen_Class","N_Catalog_Associations","N_Adiposity_Associations","N_Education_SES_Associations","In_Exclude_Five_Analysis","In_Uncatalogued_Only_Analysis"
+"COPD_main","COPD differential diagnosis","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_main","COPD differential diagnosis","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_main","COPD differential diagnosis","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_main","COPD differential diagnosis","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_main","COPD differential diagnosis","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_main","COPD differential diagnosis","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_main","COPD differential diagnosis","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_main","COPD differential diagnosis","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"COPD_main","COPD differential diagnosis","rs7851239","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_hospital","COPD hospitalization","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_hospital","COPD hospitalization","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_hospital","COPD hospitalization","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_hospital","COPD hospitalization","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_hospital","COPD hospitalization","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_hospital","COPD hospitalization","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_hospital","COPD hospitalization","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"COPD_early","Early-onset COPD","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_early","Early-onset COPD","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_early","Early-onset COPD","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_early","Early-onset COPD","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_early","Early-onset COPD","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_early","Early-onset COPD","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_early","Early-onset COPD","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_early","Early-onset COPD","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"COPD_later","Late-onset COPD","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_later","Late-onset COPD","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_later","Late-onset COPD","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_later","Late-onset COPD","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_later","Late-onset COPD","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_later","Late-onset COPD","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_later","Late-onset COPD","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_later","Late-onset COPD","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"COPD_general","General COPD","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_general","General COPD","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_general","General COPD","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_general","General COPD","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_general","General COPD","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_general","General COPD","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_general","General COPD","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_general","General COPD","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"COPD_emphysema","Emphysema","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_emphysema","Emphysema","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_emphysema","Emphysema","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_emphysema","Emphysema","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_emphysema","Emphysema","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_emphysema","Emphysema","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_emphysema","Emphysema","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_emphysema","Emphysema","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"COPD_insufficiency","COPD respiratory insufficiency","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"COPD_insufficiency","COPD respiratory insufficiency","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"FEV1","FEV1","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"FEV1","FEV1","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"FEV1","FEV1","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"FEV1","FEV1","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"FEV1","FEV1","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"FEV1","FEV1","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"FEV1","FEV1","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"FEV1","FEV1","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"FEV1","FEV1","rs7851239","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"FVC","FVC","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"FVC","FVC","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"FVC","FVC","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"FVC","FVC","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"FVC","FVC","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"FVC","FVC","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"FVC","FVC","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"FVC","FVC","rs7851239","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs10835211","catalogued_BMI_or_education",11,2,0,TRUE,FALSE
+"PEF","PEF","rs11082442","catalogued_other",1,0,0,FALSE,FALSE
+"PEF","PEF","rs11689201","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs12140153","catalogued_BMI_or_education",65,19,0,TRUE,FALSE
+"PEF","PEF","rs1362487","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs1829967","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs3898317","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs4800998","catalogued_other",2,0,0,FALSE,FALSE
+"PEF","PEF","rs4855841","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs58133129","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs6449503","catalogued_BMI_or_education",5,0,8,TRUE,FALSE
+"PEF","PEF","rs72820477","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs7577014","no_catalogue_record",0,0,0,FALSE,TRUE
+"PEF","PEF","rs76076331","catalogued_BMI_or_education",12,0,14,TRUE,FALSE
+"PEF","PEF","rs7651039","catalogued_BMI_or_education",5,2,2,TRUE,FALSE
+"PEF","PEF","rs7851239","no_catalogue_record",0,0,0,FALSE,TRUE

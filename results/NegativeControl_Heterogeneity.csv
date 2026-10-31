@@ -1,0 +1,5 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval","Outcome_Key","Instrument_Set"
+"ukb-b-298","ukb-b-533","Ease of skin tanning || id:ukb-b-533","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","Inverse variance weighted",40.351762600423,15,0.000401218523022256,"tanning","full_direct"
+"ukb-b-298","ukb-b-533","Ease of skin tanning || id:ukb-b-533","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","MR Egger",36.4154882736702,14,0.000903889644430798,"tanning","full_direct"
+"ukb-b-298","ukb-d-1747_1","Hair colour (natural, before greying): Blonde || id:ukb-d-1747_1","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","Inverse variance weighted",33.742629373305,15,0.00370024934093564,"blonde_hair","full_direct"
+"ukb-b-298","ukb-d-1747_1","Hair colour (natural, before greying): Blonde || id:ukb-d-1747_1","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","MR Egger",33.7172108768069,14,0.00226791339081551,"blonde_hair","full_direct"

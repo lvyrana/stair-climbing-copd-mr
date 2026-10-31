@@ -1,0 +1,3 @@
+"Outcome_Key","Outcome_ID","N_Direct_Retrieved","N_Harmonised_Keep","IVW_Beta","IVW_SE","IVW_P","Primary_Alpha","Negative_Control_Alert","Diagnostic_Only","Overlap_Boundary"
+"tanning","ukb-b-533",16,16,0.00320358090780532,0.052337187767185,0.951191636463777,0.025,FALSE,TRUE,"Exposure and outcome are UK Biobank-derived; individual-level overlap and exposure-outcome error covariance are unknown"
+"blonde_hair","ukb-d-1747_1",16,16,-0.0363201487070416,0.0178302898209449,0.0416508943744163,0.025,FALSE,TRUE,"Exposure and outcome are UK Biobank-derived; individual-level overlap and exposure-outcome error covariance are unknown"

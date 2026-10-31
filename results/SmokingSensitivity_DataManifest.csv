@@ -1,0 +1,6 @@
+"File","Relative_Path","Bytes","Modified","MD5","SHA256"
+"SmokingSensitivity_GWASMetadata.csv","inputs/SmokingSensitivity_GWASMetadata.csv",1588,"2026-10-31 15:32:59 CST","cebe77b3c10d9fd8ded7db6aff0e1c29","0c96236a1c5dd52d0bf5e7fe04ba9656bc98fb95375cec0f724bc4f68f414936"
+"SmokingSensitivity_ExposureData_GSCAN_CPD.csv","inputs/SmokingSensitivity_ExposureData_GSCAN_CPD.csv",29846,"2026-10-31 15:32:59 CST","9dcb1b8c84c47fbe8ea62f381de88b32","113c0facded8f1b31ca5eab1f45c59effd210fb809d447d00880f42e765614a6"
+"SmokingSensitivity_ExposureData_TAG_CPD.csv","inputs/SmokingSensitivity_ExposureData_TAG_CPD.csv",26695,"2026-10-31 15:32:59 CST","702f7d944fdd41683ee5a4a8994c9f72","ffe6c640c2b7a64effacdfbc0f890760b0f5607b5a1e171418b3a7abb03ecc38"
+"SmokingSensitivity_ExposureData_GSCAN_INIT.csv","inputs/SmokingSensitivity_ExposureData_GSCAN_INIT.csv",44756,"2026-10-31 15:32:59 CST","47e09d7767f9fd11ca8f5a70202d911c","528381d809eaad4f7dd582dc0acc4fff4783d335d78048f799293c52bafa0589"
+"SmokingSensitivity_ExposureData_TAG_INIT.csv","inputs/SmokingSensitivity_ExposureData_TAG_INIT.csv",25961,"2026-10-31 15:32:59 CST","ff4c5976f9a1649bf2df5f6c1fc9eebe","d81ab01d9bf6d0baebde7d2fd3d8b484d0fe64efa9d9bbad7a6dad7057d10278"

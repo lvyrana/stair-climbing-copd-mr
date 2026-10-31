@@ -1,0 +1,33 @@
+Run time: 2026-10-31 15:35:19 CST
+R version: R version 4.5.2 (2025-10-31)
+TwoSampleMR version: 0.6.22
+ieugwasr version: 1.1.0
+Refresh requested: FALSE
+Instrument threshold: P < 5e-8
+LD clumping: r2 < 0.001; 10000 kb; EUR reference panel
+Harmonisation strictness: 2
+No outcome data requested and no causal estimates calculated
+
+Data sources:
+- GWAS metadata: frozen cache
+- GSCAN_CPD: frozen cache
+- TAG_CPD: frozen cache
+- GSCAN_INIT: frozen cache
+- TAG_INIT: frozen cache
+
+Feasibility summary:
+      Model Smoking_ID Smoking_Dimension
+  GSCAN_CPD   ieu-b-25         Intensity
+    TAG_CPD  ieu-a-961         Intensity
+ GSCAN_INIT ieu-b-4877        Initiation
+   TAG_INIT  ieu-a-962        Initiation
+                                                       Overlap_Context
+ Partial exposure-exposure overlap expected: GSCAN includes UK Biobank
+                            Overlap-minimised: TAG predates UK Biobank
+ Partial exposure-exposure overlap expected: GSCAN includes UK Biobank
+                            Overlap-minimised: TAG predates UK Biobank
+ N_Unique_SNPs N_Stair_GWS N_BMI_GWS N_Smoking_GWS Min_Smoking_P
+            89          10        65            14  4.79733e-211
+            79          11        67             1   4.22863e-35
+           132           8        62            64   2.71019e-33
+            78          11        67             0   2.00498e-05

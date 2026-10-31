@@ -1,0 +1,397 @@
+"SNP","exposure","id.exposure","effect_allele.exposure","other_allele.exposure","eaf.exposure","beta.exposure","se.exposure","pval.exposure"
+"rs10001365","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.38788,0.00431249,0.00277871,0.12
+"rs1000940","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.301691,-0.00132137,0.0029558,0.649999
+"rs10132280","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","C",0.301379,0.00152041,0.00296683,0.61
+"rs10159545","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","C",0.350672,-0.00882084,0.00285506,0.002
+"rs1016287","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.701276,0.000823699,0.00296278,0.780001
+"rs10182181","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.486252,-0.0103981,0.00270956,0.00012
+"rs10233018","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.503999,-0.00388311,0.00271033,0.15
+"rs10250550","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.590058,0.00187489,0.0027501,0.5
+"rs10279261","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.616901,-0.00361613,0.00279531,0.2
+"rs10498846","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.505989,0.00188644,0.00271697,0.49
+"rs1050847","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.574122,-0.00731557,0.00274498,0.00769999
+"rs10733682","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.526737,0.000154677,0.00275445,0.96
+"rs10840100","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.654453,-0.00467301,0.00284967,0.1
+"rs10905461","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.741214,0.00974133,0.00309427,0.0016
+"rs10938397","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.434297,-0.00539552,0.00273715,0.0490004
+"rs11057005","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.436973,-0.000655284,0.00274555,0.81
+"rs11057405","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.104512,0.00919467,0.00442479,0.0379997
+"rs11078713","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.41882,0.00346361,0.00274934,0.21
+"rs11082442","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","C",0.320353,0.0165622,0.00291583,1.29999e-08
+"rs11162019","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.36201,-0.000154677,0.0028247,0.96
+"rs11165643","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.590147,-0.000639462,0.00275219,0.82
+"rs1154693","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.852318,-0.00632462,0.00383652,0.0990011
+"rs11672660","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.194287,0.0087687,0.00341599,0.01
+"rs1167827","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.565544,0.000424829,0.00273373,0.88
+"rs11689201","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.395119,0.0152018,0.00277881,4.49997e-08
+"rs11712680","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","A",0.186075,0.00112817,0.0034806,0.75
+"rs117143374","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.142044,0.00491761,0.0038941,0.21
+"rs11872397","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.25911,0.00586206,0.00312748,0.061
+"rs12025237","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","A",0.124857,0.000754006,0.00409928,0.85
+"rs12186738","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.142917,0.00280411,0.00387114,0.47
+"rs12286929","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.527038,0.00469219,0.00271549,0.0840001
+"rs12333760","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.165153,0.0108795,0.00365562,0.00290001
+"rs12356821","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","G",0.148472,-0.0116061,0.00386162,0.00269998
+"rs12429545","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.129303,-0.000835492,0.00406925,0.84
+"rs12474587","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.447782,-0.00299434,0.00272715,0.27
+"rs12545053","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.402519,0.00561348,0.0027699,0.0430002
+"rs12632110","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.658211,0.00691329,0.0028616,0.016
+"rs12940622","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.439771,0.00160848,0.00272519,0.56
+"rs12986742","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.476131,-0.000371747,0.00272371,0.89
+"rs13021737","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.828231,-0.00496951,0.00358649,0.17
+"rs13030994","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.480686,-0.000904672,0.00271074,0.74
+"rs13107325","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.074838,-0.0146747,0.0051505,0.00439997
+"rs13145728","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","G",0.379958,0.00191083,0.00279236,0.49
+"rs13191362","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.124395,0.00643667,0.00411508,0.12
+"rs134529","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.380391,-0.00158759,0.0027908,0.57
+"rs1362487","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.629447,0.0158399,0.00281259,1.79999e-08
+"rs1385108","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.242003,-0.00132134,0.00317187,0.68
+"rs1412235","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","G",0.324579,-0.00376996,0.00289237,0.19
+"rs1435741","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.430441,-0.00555214,0.00273708,0.0430002
+"rs1445649","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.536893,0.00298368,0.00271771,0.27
+"rs1516725","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.862878,-0.00257068,0.00393839,0.51
+"rs1528435","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.620959,-0.00134492,0.00279387,0.630001
+"rs1555445","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","A",0.309491,0.000964012,0.00294105,0.74
+"rs1565735","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","T",0.203144,0.0112851,0.00339055,0.000870001
+"rs16851483","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.066151,-0.00494853,0.00544953,0.36
+"rs16951275","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.226696,0.0114805,0.00322497,0.000369999
+"rs17024393","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.025948,-0.0126983,0.0085461,0.14
+"rs17066856","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.091773,0.0129291,0.00470292,0.00599998
+"rs17094222","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.213646,-0.00107802,0.00331567,0.75
+"rs17405819","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.298052,0.00336145,0.0029628,0.26
+"rs17724992","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.267774,-0.00326644,0.00306532,0.29
+"rs1899896","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.297034,-0.00320533,0.00297488,0.28
+"rs1928295","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.431291,0.00266063,0.00273115,0.33
+"rs1971318","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.158409,-0.0110893,0.00371727,0.00290001
+"rs2033732","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.745033,0.00653971,0.00310905,0.0350002
+"rs2046850","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.193564,0.00119711,0.00343816,0.73
+"rs2049045","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","G",0.18632,0.00284587,0.00347739,0.41
+"rs2107300","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","C",0.843359,0.00783775,0.00374391,0.0359998
+"rs2112347","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","T",0.360152,0.00801926,0.00282618,0.00449997
+"rs2121279","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.125295,-0.000871619,0.00410342,0.83
+"rs2140114","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.535041,-0.00215036,0.00271671,0.43
+"rs2176598","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.752697,0.00267308,0.00313825,0.39
+"rs2207139","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.169482,-0.00428647,0.00360816,0.23
+"rs2245368","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.830806,0.000973477,0.00360769,0.79
+"rs2365389","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.408084,-0.00225206,0.00276106,0.41
+"rs2378662","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.543493,-0.000142754,0.00272985,0.96
+"rs240963","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.840824,0.0105421,0.00370648,0.00449997
+"rs2631017","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.259203,-0.0038576,0.00310152,0.21
+"rs2820292","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","A",0.565095,-0.00543003,0.00273012,0.0470002
+"rs2892512","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.269084,0.000915447,0.00305832,0.760001
+"rs29941","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.674221,-0.00197137,0.00289586,0.5
+"rs3001723","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.301192,-0.00536319,0.00294855,0.0690001
+"rs301805","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","T",0.581632,-0.00384891,0.00274316,0.16
+"rs3101336","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.603757,-0.00892053,0.00276335,0.0012
+"rs35702515","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.229593,-0.00156479,0.00324137,0.630001
+"rs3801289","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","A",0.339046,0.00391476,0.00286921,0.17
+"rs3817334","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.407488,0.000155498,0.0027492,0.95
+"rs3845344","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.391076,-0.0026344,0.00277401,0.34
+"rs3888190","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","C",0.39856,-0.00523632,0.00276334,0.0580003
+"rs3898317","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.510059,-0.0161124,0.00270474,2.59998e-09
+"rs3904512","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.45065,0.00196947,0.00272503,0.47
+"rs4044321","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.641099,0.0050817,0.00282887,0.0719996
+"rs4236259","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","T",0.489823,0.00149039,0.0027367,0.59
+"rs4352629","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.460358,-0.00162568,0.00272087,0.55
+"rs4523689","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.394717,-0.000493337,0.0027678,0.86
+"rs4543592","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.480103,0.00100952,0.00271499,0.709999
+"rs4547301","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.18999,0.00656554,0.00345388,0.0569994
+"rs4674993","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.199604,-0.00161531,0.00338814,0.630001
+"rs4740619","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.4492,0.00148355,0.00272296,0.59
+"rs4889606","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.378178,0.0088316,0.00280037,0.0016
+"rs543874","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.205214,-0.00823103,0.00335383,0.0140001
+"rs58133129","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.373113,0.018892,0.00280435,1.59993e-11
+"rs6449503","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.495683,0.0167671,0.00272754,7.90005e-10
+"rs6457796","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.269153,-0.00725676,0.0030507,0.017
+"rs6477694","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.647989,0.000347792,0.00284327,0.9
+"rs663129","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.233275,-0.00604986,0.00319894,0.0589997
+"rs66680800","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.399774,-0.00311221,0.00276235,0.26
+"rs6669839","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.20923,-0.00237232,0.00333425,0.48
+"rs6804842","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.573709,-0.000570943,0.0027455,0.84
+"rs7138803","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.36914,-0.00332781,0.00280413,0.24
+"rs7144011","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","G",0.221025,-0.00439332,0.00326636,0.18
+"rs7224742","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.617727,-0.00325528,0.00278994,0.24
+"rs72789632","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.130831,0.00282183,0.00403858,0.48
+"rs758747","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.278272,-0.00810588,0.00305127,0.00790005
+"rs7599312","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","G",0.267459,0.00486675,0.00308632,0.11
+"rs76076331","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.123524,0.0229312,0.00414068,3.09999e-08
+"rs7651039","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.518463,-0.0150612,0.0027078,2.69998e-08
+"rs7829715","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.506454,-0.000816038,0.00271428,0.760001
+"rs7899106","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.050136,-0.00440957,0.00623069,0.48
+"rs7903146","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.290693,-0.00661001,0.00297964,0.0269998
+"rs7929518","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.778515,0.000782466,0.00326321,0.81
+"rs7938812","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","T",0.387808,-0.00316456,0.00277979,0.25
+"rs7969559","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.720252,0.00389048,0.00301503,0.2
+"rs879620","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.613169,-0.00260154,0.0027888,0.35
+"rs891389","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.345807,-0.0063619,0.0028498,0.0259998
+"rs9304665","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","A","T",0.76347,-0.00385969,0.00319262,0.23
+"rs9400239","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.70495,-0.00821342,0.00297,0.00569994
+"rs9540731","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","T","C",0.520015,0.0032389,0.00271057,0.23
+"rs9579083","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","G",0.179217,0.000627251,0.003531,0.86
+"rs962625","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","G","A",0.266749,0.00417213,0.00307353,0.17
+"rs9926784","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.184506,0.00453053,0.00348937,0.19
+"rs993700","Frequency of stair climbing in last 4 weeks || id:ukb-b-298","ukb-b-298","C","T",0.777761,0.0139394,0.00325539,1.89998e-05
+"rs10001365","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.3793,-0.0067,0.0043,0.1192
+"rs1000940","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.225,0.0192,0.0034,1.28399e-08
+"rs10132280","Body mass index || id:ieu-a-835","ieu-a-835","A","C",0.3333,-0.023,0.0034,1.14104e-11
+"rs10159545","Body mass index || id:ieu-a-835","ieu-a-835","G","C",0.3333,0.01,0.004,0.01242
+"rs1016287","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.675,-0.0229,0.0034,2.2532e-11
+"rs10182181","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.5,0.0307,0.0031,8.77607e-24
+"rs10233018","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.5583,-0.0028,0.0038,0.4612
+"rs10250550","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5833,-0.0043,0.0038,0.2578
+"rs10279261","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.6917,-9e-04,0.0038,0.8128
+"rs10498846","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.525,-0.0022,0.0038,0.5626
+"rs1050847","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.6,0.0053,0.0038,0.1631
+"rs10733682","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.575,-0.0174,0.0031,1.83e-08
+"rs10840100","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.725,0.0209,0.0031,3.0318e-11
+"rs10905461","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.7917,0.0016,0.0044,0.716101
+"rs10938397","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.4333,0.0402,0.0031,3.20479e-38
+"rs11057005","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.4333,0.0012,0.0038,0.752199
+"rs11057405","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.0917,-0.0307,0.0055,2.01902e-08
+"rs11078713","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.5,0.011,0.004,0.00596005
+"rs11082442","Body mass index || id:ieu-a-835","ieu-a-835","G","C",0.3667,-0.001,0.0041,0.8073
+"rs11162019","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.2982,-0.0029,0.0049,0.554
+"rs11165643","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.575,0.0218,0.0031,2.07014e-12
+"rs1154693","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.8333,0.0029,0.0051,0.5696
+"rs11672660","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.175,-0.0345,0.004,8.49376e-18
+"rs1167827","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.5417,0.0202,0.0033,6.33301e-10
+"rs11689201","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.3583,-0.0113,0.0038,0.00294198
+"rs11712680","Body mass index || id:ieu-a-835","ieu-a-835","C","A",0.1833,-0.0034,0.0049,0.4878
+"rs117143374","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.1,-0.0012,0.0058,0.8361
+"rs11872397","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.275,0.0083,0.0042,0.0481305
+"rs12025237","Body mass index || id:ieu-a-835","ieu-a-835","C","A",0.1167,7e-04,0.0056,0.9005
+"rs12186738","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.1167,-0.0106,0.0052,0.0415002
+"rs12286929","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.4333,0.0217,0.0031,1.31009e-12
+"rs12333760","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.1583,-0.011,0.0051,0.0310199
+"rs12356821","Body mass index || id:ieu-a-835","ieu-a-835","C","G",0.1417,0.014,0.0046,0.002476
+"rs12429545","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.1,0.0334,0.0047,1.09396e-12
+"rs12474587","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.3879,-0.0025,0.0044,0.5699
+"rs12545053","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.4417,0.0041,0.0038,0.2806
+"rs12632110","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.6667,-0.0125,0.004,0.00177799
+"rs12940622","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.4583,-0.0182,0.0031,2.49402e-09
+"rs12986742","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5,0.0212,0.0037,1.006e-08
+"rs13021737","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.875,0.0601,0.004,1.11301e-50
+"rs13030994","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.5,3e-04,0.0037,0.9354
+"rs13107325","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.1167,0.0477,0.0068,1.82516e-12
+"rs13145728","Body mass index || id:ieu-a-835","ieu-a-835","C","G",0.3417,-0.0082,0.0038,0.03094
+"rs13191362","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.2,-0.0277,0.0048,7.33905e-09
+"rs134529","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.4167,-0.0037,0.0038,0.3302
+"rs1362487","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5917,-0.0043,0.0038,0.2578
+"rs1385108","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.2083,0.0063,0.0043,0.1429
+"rs1412235","Body mass index || id:ieu-a-835","ieu-a-835","C","G",0.3083,0.0249,0.0033,8.0891e-14
+"rs1435741","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.4917,-0.0067,0.0038,0.07787
+"rs1445649","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5333,6e-04,0.0037,0.8712
+"rs1516725","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.9083,0.0451,0.0046,1.88582e-22
+"rs1528435","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.5833,0.0178,0.0031,1.196e-08
+"rs1555445","Body mass index || id:ieu-a-835","ieu-a-835","T","A",0.225,-0.0016,0.0041,0.6964
+"rs1565735","Body mass index || id:ieu-a-835","ieu-a-835","A","T",0.2167,0.003,0.0047,0.5233
+"rs16851483","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.0917,0.0483,0.0077,3.54797e-10
+"rs16951275","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.225,-0.0311,0.0037,1.91117e-17
+"rs17024393","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.04167,0.0658,0.0088,7.0291e-14
+"rs17066856","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.1333,-0.0395,0.0055,6.22444e-13
+"rs17094222","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.2083,0.0249,0.0038,5.94155e-11
+"rs17405819","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.3667,-0.0224,0.0033,2.07014e-11
+"rs17724992","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.3083,-0.0194,0.0035,3.41499e-08
+"rs1899896","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.3167,0.0112,0.0042,0.00766108
+"rs1928295","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.425,-0.0188,0.0031,7.91006e-10
+"rs1971318","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.2167,0.0158,0.0053,0.00287197
+"rs2033732","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.7583,0.0192,0.0035,4.889e-08
+"rs2046850","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.2333,0.0031,0.0038,0.4188
+"rs2049045","Body mass index || id:ieu-a-835","ieu-a-835","C","G",0.175,-0.0425,0.0039,2.47799e-27
+"rs2107300","Body mass index || id:ieu-a-835","ieu-a-835","G","C",0.875,-0.0015,0.0052,0.772999
+"rs2112347","Body mass index || id:ieu-a-835","ieu-a-835","G","T",0.375,-0.0261,0.0031,6.19156e-17
+"rs2121279","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.1167,0.0245,0.0044,2.31302e-08
+"rs2140114","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.5917,0.0072,0.0037,0.0516595
+"rs2176598","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.8,-0.0198,0.0036,2.97098e-08
+"rs2207139","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.1,0.0447,0.004,4.12572e-29
+"rs2245368","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.7583,-0.0317,0.0057,3.18698e-08
+"rs2365389","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.3417,-0.02,0.0031,1.629e-10
+"rs2378662","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.575,0.0093,0.0041,0.0233099
+"rs240963","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.8667,6e-04,0.0048,0.9005
+"rs2631017","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.25,0.0088,0.0042,0.0361501
+"rs2820292","Body mass index || id:ieu-a-835","ieu-a-835","C","A",0.5083,0.0195,0.0031,1.834e-10
+"rs2892512","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.25,-0.0023,0.0041,0.5748
+"rs29941","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.6667,0.0182,0.0033,2.40702e-08
+"rs3001723","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.3475,5e-04,0.0041,0.9029
+"rs301805","Body mass index || id:ieu-a-835","ieu-a-835","G","T",0.6552,0.0082,0.0043,0.0565197
+"rs3101336","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.6491,0.0334,0.0031,2.66073e-26
+"rs35702515","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.3417,0.0048,0.0046,0.2967
+"rs3801289","Body mass index || id:ieu-a-835","ieu-a-835","C","A",0.375,-0.0047,0.0044,0.2854
+"rs3817334","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.45,0.0262,0.0031,5.14517e-17
+"rs3845344","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.3482,0.0217,0.0031,3.85567e-12
+"rs3888190","Body mass index || id:ieu-a-835","ieu-a-835","A","C",0.3583,0.0309,0.0031,3.13979e-23
+"rs3898317","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.5339,0.0029,0.0038,0.4454
+"rs3904512","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.4167,0.0043,0.0038,0.2578
+"rs4044321","Body mass index || id:ieu-a-835","ieu-a-835","G","A",NA,0.0042,0.0065,0.5182
+"rs4236259","Body mass index || id:ieu-a-835","ieu-a-835","G","T",0.475,0.001,0.0038,0.792399
+"rs4352629","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.4333,-0.0043,0.0037,0.2452
+"rs4523689","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.475,0.0022,0.0038,0.5626
+"rs4543592","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5167,-0.0056,0.0038,0.1406
+"rs4547301","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.1583,-0.004,0.0038,0.3009
+"rs4674993","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.1333,0.0021,0.0049,0.668199
+"rs4740619","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.4667,-0.0179,0.0031,4.56405e-09
+"rs4889606","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.3583,-0.0183,0.0031,4.85702e-09
+"rs543874","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.2667,0.0482,0.0039,2.61818e-35
+"rs58133129","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.4083,-0.0145,0.0038,0.0001357
+"rs6449503","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.525,8e-04,0.0038,0.8333
+"rs6457796","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.2583,0.0217,0.0034,3.12399e-10
+"rs6477694","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.6417,-0.0174,0.0031,2.67301e-08
+"rs663129","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.2833,0.0557,0.0036,8.80035e-53
+"rs66680800","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.4083,-0.01,0.0038,0.00849904
+"rs6669839","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.1917,0.0172,0.0048,0.000339203
+"rs6804842","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.575,0.0185,0.0031,2.476e-09
+"rs7138803","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.4417,0.0315,0.0031,8.15267e-24
+"rs7144011","Body mass index || id:ieu-a-835","ieu-a-835","T","G",0.275,0.0289,0.0038,1.38388e-14
+"rs7224742","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.6417,0.0057,0.0038,0.1336
+"rs72789632","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.15,-0.0033,0.0056,0.555699
+"rs758747","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.2667,0.0225,0.0037,7.47309e-10
+"rs7599312","Body mass index || id:ieu-a-835","ieu-a-835","A","G",0.2917,-0.022,0.0034,1.17301e-10
+"rs76076331","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.15,-0.004,0.0054,0.4589
+"rs7651039","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5,0.0076,0.0031,0.01393
+"rs7829715","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.5833,-8e-04,0.0037,0.8288
+"rs7899106","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.05,0.0395,0.0071,2.95999e-08
+"rs7903146","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.25,-0.0234,0.0034,1.11199e-11
+"rs7929518","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.75,-0.0032,0.0044,0.4671
+"rs7938812","Body mass index || id:ieu-a-835","ieu-a-835","G","T",0.4167,-0.016,0.0038,2.548e-05
+"rs7969559","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.7417,-0.0114,0.0042,0.00664202
+"rs879620","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.5917,0.0244,0.004,1.06101e-09
+"rs891389","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.325,0.0208,0.0038,4.40798e-08
+"rs9304665","Body mass index || id:ieu-a-835","ieu-a-835","A","T",0.7,0.0249,0.0044,1.52198e-08
+"rs9400239","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.7,0.0188,0.0033,1.61298e-08
+"rs9540731","Body mass index || id:ieu-a-835","ieu-a-835","T","C",0.5083,-0.0022,0.0037,0.5521
+"rs9579083","Body mass index || id:ieu-a-835","ieu-a-835","C","G",0.2333,0.0295,0.0047,3.46099e-10
+"rs962625","Body mass index || id:ieu-a-835","ieu-a-835","G","A",0.25,0.0013,0.0044,0.7676
+"rs9926784","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.2083,-0.0265,0.0042,1.84901e-10
+"rs993700","Body mass index || id:ieu-a-835","ieu-a-835","C","T",0.725,-0.0083,0.0044,0.0592502
+"rs10001365","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.405,-0.0249918,0.00364155,6.64967e-12
+"rs1000940","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.318,0.0102172,0.00383716,0.00773998
+"rs10132280","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","C",0.312,0.000348996,0.00387774,0.928
+"rs10159545","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","C",0.375,0.0262501,0.00372727,1.83992e-12
+"rs1016287","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.722,-0.00488274,0.00392191,0.213
+"rs10182181","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.477,0.0138733,0.00355843,9.52994e-05
+"rs10233018","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.503,0.027069,0.00355741,2.74979e-14
+"rs10250550","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.597,-0.020329,0.00361066,1.78999e-08
+"rs10279261","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.619,-0.0214194,0.00366263,5e-09
+"rs10498846","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.473,0.0206103,0.00355561,6.62003e-09
+"rs1050847","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.505,-0.0216231,0.00358893,1.67001e-09
+"rs10733682","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.519,-0.00251533,0.00356078,0.48
+"rs10840100","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.623,-0.00242491,0.00373727,0.517001
+"rs10905461","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.718,-0.0239554,0.00414505,7.35005e-09
+"rs10938397","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.425,-0.00318843,0.0035941,0.375
+"rs11057005","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.43,-0.0209298,0.00357892,4.84998e-09
+"rs11057405","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.0794,-0.00490104,0.00592598,0.408
+"rs11078713","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.454,-0.0201721,0.00360561,2.22998e-08
+"rs11082442","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","C",0.32,-0.00966933,0.00383716,0.0117001
+"rs11162019","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.366,-0.0205091,0.00370149,3.09001e-08
+"rs11165643","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.57,0.014077,0.00361066,9.89008e-05
+"rs1154693","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.856,0.0326217,0.00491232,3.12033e-11
+"rs11672660","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.202,0.00308122,0.00441981,0.486
+"rs1167827","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.573,0.0070924,0.00361462,0.0497004
+"rs11689201","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.375,-0.00934538,0.00364321,0.0103001
+"rs11712680","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","A",0.174,-0.0270476,0.00457843,3.51002e-09
+"rs117143374","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.12,0.0292897,0.00526909,2.76001e-08
+"rs11872397","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.252,-0.0247725,0.00409477,1.43001e-09
+"rs12025237","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","A",0.124,-0.0329992,0.00533915,6.52004e-10
+"rs12186738","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.154,-0.0332644,0.00502051,3.41979e-11
+"rs12286929","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.514,0.0024798,0.00356078,0.486
+"rs12333760","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.204,-0.0290467,0.00480127,1.43999e-09
+"rs12356821","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","G",0.14,0.03937,0.0050491,6.27047e-15
+"rs12429545","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.131,-0.00716416,0.00556046,0.197
+"rs12474587","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.404,0.0276329,0.00358234,1.24997e-14
+"rs12545053","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.397,0.0202808,0.00363668,2.43002e-08
+"rs12632110","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.647,-0.0233768,0.00375292,4.78002e-10
+"rs12940622","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.432,-0.00296349,0.00358324,0.408
+"rs12986742","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.475,-0.0080453,0.00355903,0.0238002
+"rs13021737","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.83,0.0342597,0.00473279,4.60045e-13
+"rs13030994","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.485,0.0360925,0.0035563,3.56041e-24
+"rs13107325","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.0654,-0.0175406,0.00725834,0.0155998
+"rs13145728","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","G",0.358,-0.0232512,0.00366263,2.13998e-10
+"rs13191362","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.117,-0.00330759,0.00539409,0.54
+"rs134529","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.349,-0.019984,0.00366078,4.84998e-08
+"rs1362487","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.632,-0.00042562,0.00369059,0.908
+"rs1385108","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.239,0.0246617,0.00415673,2.99999e-09
+"rs1412235","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","G",0.29,0.000296324,0.00399563,0.941
+"rs1435741","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.425,0.0294151,0.00359095,2.63998e-16
+"rs1445649","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.525,0.0239932,0.00356484,1.67996e-11
+"rs1516725","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.878,0.00896356,0.00521879,0.0858005
+"rs1528435","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.634,-0.00214868,0.00367416,0.559
+"rs1555445","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","A",0.337,0.0225548,0.0038234,3.64998e-09
+"rs1565735","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","T",0.212,-0.037618,0.0044613,3.41979e-17
+"rs16851483","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.0613,0.00914355,0.00727422,0.209
+"rs16951275","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.23,-0.0100026,0.00428466,0.0196002
+"rs17024393","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.0286,0.0197273,0.0104554,0.0591998
+"rs17066856","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.0951,-0.0141602,0.00636454,0.0261
+"rs17094222","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.209,0.00293565,0.00439579,0.504001
+"rs17405819","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.291,0.00421417,0.00387946,0.277
+"rs17724992","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.254,-0.0185733,0.00405302,4.62999e-06
+"rs1899896","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.286,0.0264481,0.00388691,1.03992e-11
+"rs1928295","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.435,-0.01134,0.00358602,0.00152999
+"rs1971318","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.141,0.0285074,0.00492533,7.05992e-09
+"rs2033732","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.753,-0.00030472,0.00406837,0.94
+"rs2046850","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.187,-0.0248139,0.00447842,3.02998e-08
+"rs2049045","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","G",0.189,-0.0313163,0.00462741,1.31009e-11
+"rs2107300","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","C",0.845,-0.027201,0.00492533,3.27002e-08
+"rs2112347","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","T",0.375,-0.00540268,0.00371058,0.145
+"rs2121279","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.13,-0.00604118,0.00521879,0.247
+"rs2140114","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.518,-0.0232591,0.00373402,4.70002e-10
+"rs2176598","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.739,0.00312314,0.00412226,0.448
+"rs2207139","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.162,-0.000507536,0.00473279,0.914
+"rs2245368","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.807,-0.00361814,0.00467881,0.439
+"rs2365389","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.426,-0.00539824,0.00360685,0.135
+"rs2378662","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.556,0.0209482,0.00356645,4.15997e-09
+"rs240963","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.836,-0.0410444,0.00483712,2.16023e-17
+"rs2631017","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.263,0.0229645,0.00402823,1.2e-08
+"rs2820292","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","A",0.541,0.00906576,0.00359198,0.0116001
+"rs2892512","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.272,0.0277307,0.003986,3.54977e-12
+"rs29941","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.66,0.00967682,0.00379265,0.0107999
+"rs3001723","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.321,0.0335118,0.0038983,8.12082e-18
+"rs301805","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","T",0.559,0.0214679,0.00361329,2.80001e-09
+"rs3101336","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.628,0.00539701,0.00363042,0.137
+"rs35702515","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.162,0.0252442,0.00423093,2.43002e-09
+"rs3801289","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","A",0.351,-0.0220618,0.00373982,3.73999e-09
+"rs3817334","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.396,-0.00813825,0.00362867,0.0249
+"rs3845344","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.381,0.0190545,0.00365353,1.78999e-07
+"rs3888190","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","C",0.381,-0.00305279,0.00362299,0.399
+"rs3898317","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.512,0.000399114,0.00355559,0.911
+"rs3904512","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.429,-0.0211589,0.0035765,3.22998e-09
+"rs4044321","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.642,-0.0278417,0.00371058,6.07995e-14
+"rs4236259","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","T",0.499,-0.0247689,0.00355661,3.34965e-12
+"rs4352629","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.492,-0.0275284,0.00356881,1.22011e-14
+"rs4523689","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.408,-0.0206091,0.00364321,1.54999e-08
+"rs4543592","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.468,0.0219314,0.00356244,7.46002e-10
+"rs4547301","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.187,-0.0290323,0.00449586,1.06999e-10
+"rs4674993","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.207,-0.0252122,0.00443619,1.31999e-08
+"rs4740619","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.473,0.000174962,0.0035714,0.961
+"rs4889606","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.403,-0.0110841,0.00366831,0.00252
+"rs543874","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.179,0.0122341,0.00441174,0.00554996
+"rs58133129","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.363,-0.0131193,0.00369594,0.000377998
+"rs6449503","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.529,-0.0160593,0.00355559,6.44006e-06
+"rs6457796","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.287,0.0106549,0.00401859,0.00803008
+"rs6477694","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.646,-0.00568293,0.00369927,0.125
+"rs663129","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.227,0.00250174,0.00419292,0.551001
+"rs66680800","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.397,-0.0202716,0.00365268,2.83002e-08
+"rs6669839","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.204,0.0260041,0.0043955,3.36001e-09
+"rs6804842","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.57,0.00843926,0.00359851,0.0189998
+"rs7138803","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.36,-0.00379855,0.00367219,0.301
+"rs7144011","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","G",0.201,-0.0104369,0.00433367,0.016
+"rs7224742","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.595,-0.0207099,0.00365532,1.43001e-08
+"rs72789632","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.12,-0.0328856,0.00528628,5.01996e-10
+"rs758747","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.282,-0.0110917,0.00402339,0.00585006
+"rs7599312","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","G",0.262,0.0051818,0.003986,0.193
+"rs76076331","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.123,-0.00643416,0.00521879,0.218
+"rs7651039","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.539,0.00197134,0.00355789,0.579001
+"rs7829715","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.521,-0.0268946,0.00355604,3.95003e-14
+"rs7899106","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.0513,-0.00456252,0.00810355,0.573
+"rs7903146","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.294,0.00452473,0.00393827,0.25
+"rs7929518","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.765,0.0242377,0.00428466,1.55998e-08
+"rs7938812","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","T",0.424,0.0437914,0.00363668,2.71019e-33
+"rs7969559","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.688,-0.0243756,0.00395946,7.31004e-10
+"rs879620","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.585,0.00839505,0.00365002,0.0213998
+"rs891389","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.344,-0.00826454,0.00372973,0.0266999
+"rs9304665","smoking initiation || id:ieu-b-4877","ieu-b-4877","A","T",0.748,0.0140547,0.00416264,0.000741993
+"rs9400239","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.663,0.0169756,0.00389447,1.32999e-05
+"rs9540731","smoking initiation || id:ieu-b-4877","ieu-b-4877","T","C",0.501,-0.0195509,0.00355764,3.84999e-08
+"rs9579083","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","G",0.178,0.00447433,0.00455948,0.326
+"rs962625","smoking initiation || id:ieu-b-4877","ieu-b-4877","G","A",0.24,0.0237181,0.00403803,4.36999e-09
+"rs9926784","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.2,-0.00217023,0.00463749,0.639
+"rs993700","smoking initiation || id:ieu-b-4877","ieu-b-4877","C","T",0.766,-0.025928,0.00429163,1.52999e-09

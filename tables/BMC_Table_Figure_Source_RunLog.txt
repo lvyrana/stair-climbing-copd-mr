@@ -1,0 +1,10 @@
+BMC main table and Figure 1 source-data build
+Network/API calls: none
+Historical Lung tables/figures overwritten: no
+Main Table 1 rows: 11 (exposure plus 10 UVMR outcomes)
+Main Table 2 rows: 10 frozen no-proxy IVW outcomes
+Main Table 3 rows: 4 prioritized/borderline COPD outcomes
+Supplementary all-sensitivity rows: 10 outcomes
+Figure 1 source rows: 10 outcomes in three effect-scale panels
+MVMR position: supplementary only
+Effect-scale gate: UKB risk difference; FinnGen OR; lung-function beta

@@ -1,0 +1,4 @@
+"File","Relative_Path","Bytes","MD5","SHA256"
+"SmokingSensitivity_StageB_HarmonisedData.csv","results/SmokingSensitivity_StageB_HarmonisedData.csv",148181,"53aaa10e5d1b062b3e56d25034e14b80","41d3bfd8d2c8e310d9d72c8b6c42686066ed4bc652150b952ae92364391faff8"
+"SmokingSensitivity_StageB_ConditionalF.csv","results/SmokingSensitivity_StageB_ConditionalF.csv",5754,"a657528a36e92f2fa7057c00dfafefc4","fee1adce4d747cd60b1d0169063769f384ce5a804891c05bc22a6c4e250af634"
+"28_smoking_covariance_sensitivity.R","scripts/28_smoking_covariance_sensitivity.R",18017,"204770d7084e84a8293924a0dc24e597","984368a7ae17722628fb4e844308ad22789fcd973a8c5000cf5cc1c35045f735"

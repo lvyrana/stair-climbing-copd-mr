@@ -1,0 +1,55 @@
+Run time: 2026-10-31 15:35:34 CST
+R version: R version 4.5.2 (2025-10-31)
+MVMR version: 0.4.6
+Mode: offline reproducibility validation using frozen Stage-B harmonised data
+Outcome proxies: inherited from Stage B; disabled
+Primary effective error-correlation envelope: [-0.5, 0.5] in steps of 0.05
+Extreme stress-test envelope: [-0.9, 0.9] in steps of 0.05; PSD matrices only
+Stair-BMI error correlation fixed at 0 in every decision-eligible scenario
+TAG_CPD stair-smoking error correlation fixed at 0
+GSCAN stair-smoking and BMI-smoking correlations varied
+TAG_CPD BMI-smoking correlation varied
+Interpretation: varied correlations are sensitivity parameters, not measured phenotypic correlations
+Independent validation: manual implementation vs MVMR::strength_mvmr at baseline/min/max checkpoints
+Equicorrelation audit: non-decision-eligible; retained only to investigate values near 9.48
+No manuscript or canonical manuscript table modified
+
+Maximum decision-eligible stair conditional F by model:
+      Model Maximum_Structure_Respecting_F_Stair
+  GSCAN_CPD                             5.629373
+ GSCAN_INIT                             4.232999
+    TAG_CPD                             5.623351
+
+Non-decision-eligible equicorrelation scenarios closest to stair F = 9.48:
+      Model Common_OffDiagonal_Correlation  F_Stair Distance_From_9_48
+  GSCAN_CPD                          -0.49 6.703378         2.77662168
+ GSCAN_INIT                          -0.49 4.630411         4.84958909
+    TAG_CPD                          -0.48 9.514349         0.03434862
+ Decision_Eligible
+             FALSE
+             FALSE
+             FALSE
+
+Baseline reproduction:
+      Model           Outcome_ID  F_Stair Conditional_F Abs_Difference
+  GSCAN_CPD    finn-b-COPD_EARLY 5.108691      5.108691   1.776357e-15
+  GSCAN_CPD finn-b-COPD_HOSPITAL 5.108691      5.108691   1.776357e-15
+  GSCAN_CPD      finn-b-J10_COPD 5.108691      5.108691   1.776357e-15
+ GSCAN_INIT    finn-b-COPD_EARLY 3.196835      3.196835   3.552714e-15
+ GSCAN_INIT finn-b-COPD_HOSPITAL 3.196835      3.196835   3.552714e-15
+ GSCAN_INIT      finn-b-J10_COPD 3.196835      3.196835   3.552714e-15
+    TAG_CPD    finn-b-COPD_EARLY 5.130931      5.130931   2.664535e-15
+    TAG_CPD finn-b-COPD_HOSPITAL 5.130931      5.130931   2.664535e-15
+    TAG_CPD      finn-b-J10_COPD 5.130931      5.130931   2.664535e-15
+ Pass_1e_10
+       TRUE
+       TRUE
+       TRUE
+       TRUE
+       TRUE
+       TRUE
+       TRUE
+       TRUE
+       TRUE
+
+Manual/package checks all pass 1e-10: TRUE

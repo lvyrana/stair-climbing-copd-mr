@@ -1,0 +1,16 @@
+Targeted pleiotropy sensitivity analysis
+Analysis date: 2026-08-09
+Frozen annotation date: 2026-08-08
+Network/API calls: none
+Annotation file: inputs/instrument_annotation.csv
+Annotation SHA256: cad2a87c25b4d7060bb2adb06b6fa96045b4f37aec1b7fcb2b53e767edea6870
+Paper instruments: 16
+BMI/education-linked instruments: rs10835211;rs12140153;rs6449503;rs76076331;rs7651039
+Uncatalogued instruments: rs11689201;rs1362487;rs1829967;rs3898317;rs4855841;rs58133129;rs72820477;rs7577014;rs7851239
+Proxy rule: all detected outcome proxy rows excluded
+Estimator: manual multiplicative random-effects IVW; dispersion bounded below at 1
+Permutation: exact enumeration of every same-size five-SNP exclusion set
+P_AtLeast_As_Attenuated: proportion with abs(permuted beta) <= abs(observed exclude-five beta)
+External annotation: fixed summary file inputs/instrument_annotation.csv
+Outcomes completed: 10
+Exact permutation rows: 35490

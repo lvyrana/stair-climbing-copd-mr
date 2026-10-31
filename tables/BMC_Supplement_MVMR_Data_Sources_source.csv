@@ -1,0 +1,3 @@
+"Variable_Type","Trait","GWAS_ID","Data_Source","Ancestry","Outcome_Type","Cases","Controls","Total_N","Analysis_Position"
+"MVMR covariate","Body mass index","ieu-a-835","GIANT/IEU OpenGWAS","European","Continuous",NA,NA,322154,"Exploratory supplementary MVMR covariate"
+"MVMR covariate","Cigarettes per day","ieu-b-25","GSCAN/IEU OpenGWAS","European","Continuous",NA,NA,337334,"Exploratory supplementary MVMR covariate"

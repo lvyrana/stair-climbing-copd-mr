@@ -1,0 +1,2 @@
+"File","SHA256","Annotation_Date","Reported_Sources","Reproducibility_Status","Paper_Instrument_Count","BMI_or_Education_Link_Count","No_Catalogue_Record_Count"
+"inputs/instrument_annotation.csv","cad2a87c25b4d7060bb2adb06b6fa96045b4f37aec1b7fcb2b53e767edea6870","2026-08-08","IEU OpenGWAS; Ensembl REST; GWAS Catalog","Annotation summary fixed on the annotation date; downstream analysis is rerunnable",16,5,9

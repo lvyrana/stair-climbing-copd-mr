@@ -1,0 +1,13 @@
+# Credentials: never commit OpenGWAS tokens
+opengwas_token
+*opengwas_token*
+.Renviron
+
+# Local R state and libraries
+.Rhistory
+.RData
+.Rproj.user/
+r_libs/
+
+# OS files
+.DS_Store

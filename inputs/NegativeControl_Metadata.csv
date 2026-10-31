@@ -1,0 +1,3 @@
+"id","trait","build","group_name","category","subcategory","population","sex","author","nsnp","sample_size","year","ontology","unit","consortium","mr","priority","note","ncase","ncontrol"
+"ukb-b-533","Ease of skin tanning","HG19/GRCh37","public","Categorical Ordered",,"European","Males and Females","Ben Elsworth",9851867,453065,2018,,"SD","MRC-IEU",1,1,"1727: Output from GWAS pipeline using Phesant derived variables from UKBiobank",,
+"ukb-d-1747_1","Hair colour (natural, before greying): Blonde","HG19/GRCh37","public","Binary",,"European","Males and Females","Neale lab",13586531,360270,2018,,"NA","NA",1,0,"NA",41178,319092

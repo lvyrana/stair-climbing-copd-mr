@@ -1,0 +1,11 @@
+"Outcome_Key","Outcome","Outcome_ID","Input_File","Input_SHA256","Source_MR_Keep_Rows","Proxies_Removed","Primary_Direct_SNPs","Known_Link_SNPs_Present","Uncatalogued_SNPs_Present"
+"COPD_main","COPD differential diagnosis","ukb-d-COPD_EXCL","inputs/harmonised_steiger_COPD_main.csv","73303003838bd32467a8ee2cfddb5f53c37f127e08c9959128827e7a24fd5f87",16,0,16,5,9
+"COPD_hospital","COPD hospitalization","finn-b-COPD_HOSPITAL","inputs/harmonised_steiger_COPD_hospital.csv","dc338b5ccfa441d0f4bf1bf52c9fb7aa9904055d5a1c0af0f70244c420d99063",16,1,15,5,8
+"COPD_early","Early-onset COPD","finn-b-COPD_EARLY","inputs/harmonised_steiger_COPD_early.csv","aeba322f5b165b9cd7be728a4801a6e87e993fda71076eda95f1e284eb472de9",16,1,15,5,8
+"COPD_later","Late-onset COPD","finn-b-COPD_LATER","inputs/harmonised_steiger_COPD_later.csv","59bfd0fc11a2e5dc0183f5fdcbb9977fa993699f9baee7f31d93e2c0ee1339ef",16,1,15,5,8
+"COPD_general","General COPD","finn-b-J10_COPD","inputs/harmonised_steiger_COPD_general.csv","000b13bd7a89e62fb4e63368bfdae71ddb755ac35c846d3e62ffc42b55d953d1",16,1,15,5,8
+"COPD_emphysema","Emphysema","finn-b-J10_EMPHYSEMA","inputs/harmonised_steiger_COPD_emphysema.csv","c8e58cbaa794928f356661aaaae6a70fc2ccf782ad5d496892b4a727106c1655",16,1,15,5,8
+"COPD_insufficiency","COPD respiratory insufficiency","finn-b-COPD_INSUFFICIENCY","inputs/harmonised_steiger_COPD_insufficiency.csv","557c65f4af2b404562e283a720677893a4c4075826a8e57e6dbcc45248230656",16,1,15,5,8
+"FEV1","FEV1","ebi-a-GCST007432","inputs/harmonised_steiger_FEV1.csv","ec60c5d429ce1827af851260f9a2895cc58d6a23916aa8e079b5f0070d2efcd7",16,0,16,5,9
+"FVC","FVC","ebi-a-GCST007429","inputs/harmonised_steiger_FVC.csv","57b8bb0089dbbebc1321daba85047a761dccd7a6eb52d1046e0e46b48b6dc206",16,0,16,5,9
+"PEF","PEF","ebi-a-GCST007430","inputs/harmonised_steiger_PEF.csv","0ab82dd47225b542e527e537b59596843cfd6d62afd231bbb86901e89a12f825",16,0,16,5,9

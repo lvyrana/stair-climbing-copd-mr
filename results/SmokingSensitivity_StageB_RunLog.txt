@@ -1,0 +1,95 @@
+Run time: 2026-10-31 15:35:22 CST
+R version: R version 4.5.2 (2025-10-31)
+TwoSampleMR version: 0.6.22
+MVMR version: 0.4.6
+Refresh requested: FALSE
+Models: GSCAN_CPD, TAG_CPD, GSCAN_INIT
+Outcomes: finn-b-COPD_HOSPITAL, finn-b-J10_COPD, finn-b-COPD_EARLY
+Outcome extraction: direct SNPs only; proxies = FALSE
+Estimator: standard multivariable IVW, no intercept, union instrument set
+Independent check: direct matrix WLS with lm-equivalent residual scaling
+Conditional F: MVMR::strength_mvmr(gencov = 0); covariance-limited reference
+Heterogeneity: standard outcome-SE residual Q plus MVMR::pleiotropy_mvmr(gencov = 0)
+No weak-instrument Q-minimisation run in this stage
+TAG_INIT excluded by the prespecified Stage-A feasibility rule
+
+Outcome data sources:
+- GSCAN_CPD | finn-b-COPD_HOSPITAL | frozen direct-SNP cache
+- GSCAN_CPD | finn-b-J10_COPD | frozen direct-SNP cache
+- GSCAN_CPD | finn-b-COPD_EARLY | frozen direct-SNP cache
+- TAG_CPD | finn-b-COPD_HOSPITAL | frozen direct-SNP cache
+- TAG_CPD | finn-b-J10_COPD | frozen direct-SNP cache
+- TAG_CPD | finn-b-COPD_EARLY | frozen direct-SNP cache
+- GSCAN_INIT | finn-b-COPD_HOSPITAL | frozen direct-SNP cache
+- GSCAN_INIT | finn-b-J10_COPD | frozen direct-SNP cache
+- GSCAN_INIT | finn-b-COPD_EARLY | frozen direct-SNP cache
+
+Direct-SNP and harmonisation counts:
+      Model           Outcome_ID N_Requested N_Direct_Outcome N_Harmonised
+  GSCAN_CPD finn-b-COPD_HOSPITAL          89               88           88
+  GSCAN_CPD      finn-b-J10_COPD          89               88           88
+  GSCAN_CPD    finn-b-COPD_EARLY          89               88           88
+    TAG_CPD finn-b-COPD_HOSPITAL          79               77           77
+    TAG_CPD      finn-b-J10_COPD          79               77           77
+    TAG_CPD    finn-b-COPD_EARLY          79               77           77
+ GSCAN_INIT finn-b-COPD_HOSPITAL         132              131          130
+ GSCAN_INIT      finn-b-J10_COPD         132              131          130
+ GSCAN_INIT    finn-b-COPD_EARLY         132              131          130
+
+Conditional F-statistics:
+      Model           Outcome_ID                   Exposure Conditional_F
+  GSCAN_CPD finn-b-COPD_HOSPITAL   Stair-climbing frequency      5.108691
+  GSCAN_CPD finn-b-COPD_HOSPITAL                        BMI     12.425501
+  GSCAN_CPD finn-b-COPD_HOSPITAL Cigarettes per day (GSCAN)     18.548739
+  GSCAN_CPD      finn-b-J10_COPD   Stair-climbing frequency      5.108691
+  GSCAN_CPD      finn-b-J10_COPD                        BMI     12.425501
+  GSCAN_CPD      finn-b-J10_COPD Cigarettes per day (GSCAN)     18.548739
+  GSCAN_CPD    finn-b-COPD_EARLY   Stair-climbing frequency      5.108691
+  GSCAN_CPD    finn-b-COPD_EARLY                        BMI     12.425501
+  GSCAN_CPD    finn-b-COPD_EARLY Cigarettes per day (GSCAN)     18.548739
+    TAG_CPD finn-b-COPD_HOSPITAL   Stair-climbing frequency      5.130931
+    TAG_CPD finn-b-COPD_HOSPITAL                        BMI      7.420722
+    TAG_CPD finn-b-COPD_HOSPITAL   Cigarettes per day (TAG)      1.007681
+    TAG_CPD      finn-b-J10_COPD   Stair-climbing frequency      5.130931
+    TAG_CPD      finn-b-J10_COPD                        BMI      7.420722
+    TAG_CPD      finn-b-J10_COPD   Cigarettes per day (TAG)      1.007681
+    TAG_CPD    finn-b-COPD_EARLY   Stair-climbing frequency      5.130931
+    TAG_CPD    finn-b-COPD_EARLY                        BMI      7.420722
+    TAG_CPD    finn-b-COPD_EARLY   Cigarettes per day (TAG)      1.007681
+ GSCAN_INIT finn-b-COPD_HOSPITAL   Stair-climbing frequency      3.196835
+ GSCAN_INIT finn-b-COPD_HOSPITAL                        BMI      8.767875
+ GSCAN_INIT finn-b-COPD_HOSPITAL Smoking initiation (GSCAN)     12.243623
+ GSCAN_INIT      finn-b-J10_COPD   Stair-climbing frequency      3.196835
+ GSCAN_INIT      finn-b-J10_COPD                        BMI      8.767875
+ GSCAN_INIT      finn-b-J10_COPD Smoking initiation (GSCAN)     12.243623
+ GSCAN_INIT    finn-b-COPD_EARLY   Stair-climbing frequency      3.196835
+ GSCAN_INIT    finn-b-COPD_EARLY                        BMI      8.767875
+ GSCAN_INIT    finn-b-COPD_EARLY Smoking initiation (GSCAN)     12.243623
+ Strength_Flag
+           <10
+          >=10
+          >=10
+           <10
+          >=10
+          >=10
+           <10
+          >=10
+          >=10
+           <10
+           <10
+           <10
+           <10
+           <10
+           <10
+           <10
+           <10
+           <10
+           <10
+           <10
+          >=10
+           <10
+           <10
+          >=10
+           <10
+           <10
+          >=10

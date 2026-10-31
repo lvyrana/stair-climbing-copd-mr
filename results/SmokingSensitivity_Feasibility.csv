@@ -1,0 +1,5 @@
+"Model","Smoking_ID","Smoking_Dimension","Overlap_Context","N_Unique_SNPs","N_Stair_GWS","N_BMI_GWS","N_Smoking_GWS","Min_Smoking_P"
+"GSCAN_CPD","ieu-b-25","Intensity","Partial exposure-exposure overlap expected: GSCAN includes UK Biobank",89,10,65,14,4.79733e-211
+"TAG_CPD","ieu-a-961","Intensity","Overlap-minimised: TAG predates UK Biobank",79,11,67,1,4.22863e-35
+"GSCAN_INIT","ieu-b-4877","Initiation","Partial exposure-exposure overlap expected: GSCAN includes UK Biobank",132,8,62,64,2.71019e-33
+"TAG_INIT","ieu-a-962","Initiation","Overlap-minimised: TAG predates UK Biobank",78,11,67,0,2.00498e-05

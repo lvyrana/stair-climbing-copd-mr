@@ -1,0 +1,5 @@
+"File","Role","Source_Note","Bytes","Modified_UTC","MD5","SHA256"
+"inputs/harmonised_steiger_COPD_main.csv","Exposure instrument source","Existing frozen harmonised input; exposure columns only",8814,"2026-10-31 07:32:59 UTC","8a5153ae704542af8630ae2f6986699b","73303003838bd32467a8ee2cfddb5f53c37f127e08c9959128827e7a24fd5f87"
+"inputs/NegativeControl_OutcomeData.csv","Negative-control outcome associations","OpenGWAS direct SNP extraction; proxies disabled",7910,"2026-10-31 07:32:59 UTC","04ecc91468989faf0f1ef54f47ef6e38","a8eedd880b6d220b1e1ecd2777db8727d7d8c2535ccc2afea61e8090417afb26"
+"inputs/NegativeControl_Metadata.csv","Negative-control outcome metadata","OpenGWAS metadata snapshot",631,"2026-10-31 07:32:59 UTC","2f6c253430d72897237a773cc8eb3718","89f47fe154c85bab04214c422ad7e031f5c32ff4684801428c836cb80f889efd"
+"scripts/24_negative_control_analysis.R","Analysis script","Pre-specified negative-control workflow",17370,"2026-10-31 07:33:51 UTC","e8f3155d18f47084e1fab71b0f96b330","f79c6e74b673f51b1d35f246c3921037d228e036d6088ce2c925a93bb2115c2f"
