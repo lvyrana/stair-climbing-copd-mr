@@ -2,7 +2,7 @@
 
 Analysis code and frozen summary-level inputs for:
 
-> Lou J, Yu L, Xiao L, Shi Z. Associations of genetically proxied stair-climbing frequency with chronic obstructive pulmonary disease-related outcomes and lung function: a two-sample Mendelian randomization study. *Manuscript under review.*
+> Lou J, Yu L, Xiao L, Shi Z. Associations of genetically proxied stair-climbing frequency with chronic obstructive pulmonary disease-related outcomes and lung function: a two-sample Mendelian randomization study. *Manuscript submitted for publication.*
 
 The scripts reproduce every univariable MR estimate, sensitivity analysis, supplementary analysis, table source file and Figure 1 reported in the manuscript and its Supporting Information. All inputs are publicly available GWAS summary statistics; no individual-level data are included.
 

@@ -14,6 +14,8 @@ output_dir <- file.path(root, "figures")
 
 dat <- read_csv(source_file, show_col_types = FALSE) |>
   mutate(
+    # Outcome labels match the manuscript text and tables.
+    Outcome = recode(Outcome, "COPD respiratory insufficiency" = "COPD-related respiratory insufficiency"),
     Evidence_Class = case_when(
       Evidence_Tier == "Primary supported finding" ~ "Bonferroni-supported",
       Evidence_Tier == "Nominal finding" ~ "Nominal",
@@ -38,6 +40,11 @@ fmt_p <- function(x) {
 }
 
 fmt_effect <- function(x, lo, hi, measure) {
+  # Negative numbers use the true minus sign, as in the manuscript tables.
+  gsub("-", "\u2212", fmt_effect_ascii(x, lo, hi, measure), fixed = TRUE)
+}
+
+fmt_effect_ascii <- function(x, lo, hi, measure) {
   if (measure == "OR") {
     sprintf("%.3f (%.3f, %.3f)", x, lo, hi)
   } else if (measure == "Risk difference") {
@@ -63,7 +70,11 @@ panel_row <- function(d, log_scale = FALSE) {
     )
 
   label_plot <- ggplot(d, aes(y = Outcome, x = 0)) +
-    geom_text(aes(label = as.character(Outcome)), hjust = 0, size = 3.15, family = "Arial") +
+    geom_text(data = filter(d, Outcome != "FEV1"), aes(label = as.character(Outcome)),
+              hjust = 0, size = 3.15, family = "Arial") +
+    # FEV1 is drawn with plotmath for the subscript 1.
+    geom_text(data = filter(d, Outcome == "FEV1"), label = "FEV[1]", parse = TRUE,
+              hjust = 0, size = 3.15, family = "Arial") +
     xlim(0, 1) +
     text_theme
 
@@ -98,9 +109,11 @@ panel_row <- function(d, log_scale = FALSE) {
         labels = label_number(accuracy = 0.1)
       )
   } else if (all(d$Effect_Measure == "Risk difference")) {
-    forest <- forest + scale_x_continuous(limits = c(-0.065, 0.015), breaks = c(-0.06, -0.03, 0))
+    forest <- forest + scale_x_continuous(limits = c(-0.065, 0.015), breaks = c(-0.06, -0.03, 0),
+                                          labels = label_number(accuracy = 0.01, style_negative = "minus"))
   } else {
-    forest <- forest + scale_x_continuous(limits = c(-0.20, 0.31), breaks = c(-0.2, 0, 0.2))
+    forest <- forest + scale_x_continuous(limits = c(-0.20, 0.31), breaks = c(-0.2, 0, 0.2),
+                                          labels = label_number(accuracy = 0.1, style_negative = "minus"))
   }
 
   p_plot <- ggplot(d, aes(y = Outcome, x = 0)) +
@@ -109,7 +122,7 @@ panel_row <- function(d, log_scale = FALSE) {
     text_theme
 
   (label_plot | effect_plot | forest | p_plot) +
-    plot_layout(widths = c(2.45, 2.25, 2.9, 0.9), guides = "collect")
+    plot_layout(widths = c(2.9, 2.25, 2.45, 0.9), guides = "collect")
 }
 
 column_header <- function(label) {
@@ -128,7 +141,7 @@ section_header <- function(label) {
 
 header <- (column_header("Outcome") | column_header("Estimate (95% CI)") |
   column_header("Forest plot") | column_header("P value")) +
-  plot_layout(widths = c(2.45, 2.25, 2.9, 0.9))
+  plot_layout(widths = c(2.9, 2.25, 2.45, 0.9))
 
 p_a <- panel_row(filter(dat, Panel == "A_UKB_risk_difference"))
 p_b <- panel_row(filter(dat, Panel == "B_FinnGen_OR"), log_scale = TRUE)
