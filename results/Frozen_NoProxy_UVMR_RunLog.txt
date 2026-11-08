@@ -1,7 +1,7 @@
 Frozen no-proxy univariable MR rerun
 ====================================
 Script: scripts/23_rerun_frozen_no_proxy_uvmr.R
-Execution time: 2026-10-31 15:35:10 CST
+Execution time: 2026-11-08 13:03:06 CST
 Offline source directory: inputs
 Network/API extraction: NONE
 Primary rule: exclude outcome proxies from frozen harmonised data

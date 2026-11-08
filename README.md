@@ -10,7 +10,7 @@ The scripts reproduce every univariable MR estimate, sensitivity analysis, suppl
 
 | Folder | Contents |
 |---|---|
-| `inputs/` | Frozen, harmonised summary-level inputs read by the scripts (exposure–outcome SNP associations, negative-control and MVMR extracts, GWAS metadata, instrument annotation, dataset descriptors) |
+| `inputs/` | Frozen, harmonized summary-level inputs read by the scripts (exposure–outcome SNP associations, negative-control and MVMR extracts, GWAS metadata, instrument annotation, dataset descriptors) |
 | `scripts/` | Analysis scripts, numbered in run order |
 | `results/` | Outputs written by scripts 23–29 |
 | `tables/` | Source files for Tables 1–3, Supporting Information tables and Figure 1 (script 30) |
@@ -26,7 +26,7 @@ The scripts reproduce every univariable MR estimate, sensitivity analysis, suppl
 | `26_smoking_sensitivity_feasibility.R` | Instrument construction and feasibility screening for the multivariable MR (MVMR) models |
 | `27_smoking_sensitivity_stage_b.R` | MVMR estimates and conditional F statistics (stair climbing + BMI + one smoking phenotype) |
 | `28_smoking_covariance_sensitivity.R` | Conditional F statistics under source-informed sampling-error covariance scenarios |
-| `29_targeted_pleiotropy_sensitivity.R` | Exclusion of BMI- or education-associated instruments, exact same-size exclusion analysis and instrument influence summary |
+| `29_targeted_pleiotropy_sensitivity.R` | Exclusion of adiposity- or education-associated instruments, exact same-size exclusion analysis and instrument influence summary |
 | `30_build_bmc_main_table_sources.R` | Assembles table and figure source files from the results |
 | `31_plot_figure1.R` | Draws Figure 1 |
 
@@ -40,7 +40,7 @@ for f in scripts/2[3-9]_*.R scripts/3[01]_*.R; do Rscript "$f"; done
 
 All scripts run offline from `inputs/`. Scripts 24, 26 and 27 can re-download their inputs from the IEU OpenGWAS API when called with `--refresh`; this requires an OpenGWAS token saved in `~/.config/opengwas_token` and replaces the frozen inputs, so it is not needed to reproduce the reported results.
 
-Random-number seeds for MR-PRESSO are fixed within the scripts. Each script writes a run log and a manifest with SHA-256 checksums of its inputs and outputs to `results/` or `tables/`.
+Random-number seeds for MR-PRESSO are fixed within the scripts. Scripts 23–30 write a run log and a manifest with SHA-256 checksums of their inputs and outputs to `results/` or `tables/`. MR-Egger and mode-based confidence intervals use t distributions matching their P values.
 
 ## Software
 
@@ -60,7 +60,7 @@ Analyses were run in R 4.5.2 with TwoSampleMR 0.6.22, MRPRESSO 1.0, MVMR 0.4.6, 
 
 Use of these summary statistics is subject to the terms of the original data providers.
 
-`inputs/instrument_annotation.csv` summarises catalogued trait associations of the 16 instruments (NHGRI-EBI GWAS Catalog, IEU OpenGWAS and Ensembl, retrieved 8 August 2026). Its `判定` column holds the curator's classification label and `in_paper_16` marks the 16 analysed instruments (`是` = yes).
+`inputs/instrument_annotation.csv` summarizes cataloged trait associations of the 16 instruments (NHGRI-EBI GWAS Catalog, IEU OpenGWAS and Ensembl, retrieved 8 August 2026). Its `判定` column holds the curator's classification label and `in_paper_16` marks the 16 analysed instruments (`是` = yes).
 
 ## License
 

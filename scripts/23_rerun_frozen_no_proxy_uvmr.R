@@ -364,7 +364,14 @@ for (i in seq_along(outcomes)) {
   set.seed(base_seed + i)
 
   mr_result <- mr(dat)
-  z <- qnorm(0.975)
+  # CIs use the same reference distribution as each estimator's P value in
+  # TwoSampleMR: t with nsnp - 2 df for MR-Egger, t with nsnp - 1 df for the
+  # simple and weighted mode, and the normal distribution otherwise.
+  z <- ifelse(
+    mr_result$method == "MR Egger", qt(0.975, mr_result$nsnp - 2),
+    ifelse(mr_result$method %in% c("Simple mode", "Weighted mode"),
+           qt(0.975, mr_result$nsnp - 1), qnorm(0.975))
+  )
   mr_result$CI_Lower <- mr_result$b - z * mr_result$se
   mr_result$CI_Upper <- mr_result$b + z * mr_result$se
   if (outcome$beta_scale == "log_odds") {
